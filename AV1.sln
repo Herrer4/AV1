@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AV1", "AV1\AV1.csproj", "{35FA15BF-DE74-44C1-9411-EC8CFD334EA4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dominio", "Dominio", "{17C49C3D-1C07-41EE-91D1-03335584DAC7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra", "Infra", "{77366256-E10E-40EE-8498-6AEEE31EADFF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApp", "WebApp", "{BBCE3C87-73B8-417E-8415-320DCB06AB30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35FA15BF-DE74-44C1-9411-EC8CFD334EA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35FA15BF-DE74-44C1-9411-EC8CFD334EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35FA15BF-DE74-44C1-9411-EC8CFD334EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35FA15BF-DE74-44C1-9411-EC8CFD334EA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{35FA15BF-DE74-44C1-9411-EC8CFD334EA4} = {BBCE3C87-73B8-417E-8415-320DCB06AB30}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45F669ED-51D8-4185-8176-C48D1C46FCF8}
+	EndGlobalSection
+EndGlobal
